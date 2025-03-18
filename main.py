@@ -10,6 +10,6 @@ def gerar_senha(comprimento):
         senha.append(caractere)
 
     return ''.join(senha)
-
-senha = gerar_senha(12)
+Tamanha_da_senha = int(input('Digite o tamanho da senha: ')
+senha = gerar_senha(Tamanho_da_senha)
 print(senha)
