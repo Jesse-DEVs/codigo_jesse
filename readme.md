@@ -13,5 +13,5 @@ Este é um simples gerador de senhas aleatórias em Python. Ele cria senhas segu
 
 1. **Clone o repositório ou copie o código**
    ```bash
-   git clone https://github.com/seu-usuario/gerador-senhas.git
+   git clone https://github.com/Jesse-DEVs/gerador-senhas.git
    cd gerador-senhas
