@@ -13,5 +13,10 @@ A calculadora suporta operações básicas como **adição (+), subtração (-),
 ## 📌 Como Usar
 1. **Clone o repositório ou copie o código**
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/seu-usuario/calculadora-tkinter.git
    cd calculadora-tkinter
+=======
+   git clone https://github.com/Jesse-DEVs/gerador-senhas.git
+   cd gerador-senhas
+>>>>>>> 4991d5d892a66e84b0cdd4aaa84d954b3667d0a2
